@@ -1,0 +1,23 @@
+{
+  "name": "download_zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fothoncode/download_zip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fothoncode/download_zip/issues"
+  },
+  "homepage": "https://github.com/fothoncode/download_zip#readme",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.0"
+  }
+}
