@@ -1,5 +1,5 @@
 {
-  "name": "@edy_dflow/download_zip",
+  "name": "browser_download_zip",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
